@@ -41,7 +41,7 @@
         <h4 id="education">Education:<a class="anchorjs-link " href="#education" aria-label="Anchor" data-anchorjs-icon="" style="font: 1em / 1 anchorjs-icons; padding-left: 0.375em;"></a></h4>
       </li>
       <li>HTML Academy - HTML base course</li>
-      <h4 id="english"> English:<a class="anchorjs-link " href="#english" aria-label="Anchor" data-anchorjs-icon="" style="font: 1em / 1 anchorjs-icons; padding-left: 0.375em;"></a></h4></li>
+      <h4 id="english"> English:<a class="anchorjs-link " href="#english" aria-label="Anchor" data-anchorjs-icon="" style="font: 1em / 1 anchorjs-icons; padding-left: 0.375em;"></a></h4>
       <li>B1, language practice of communication in foreign countries, reading books and documentation.</li>
     </ul>    
     </div>
