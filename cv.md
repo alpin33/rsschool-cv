@@ -45,18 +45,15 @@
           if (n % i === 0 || n % (i + 2) === 0)</p>
             return false;
         return true;
-      }</p>
-      
+      }</p>      
       <li>
         <h4 id="education">Education:<a class="anchorjs-link " href="#education" aria-label="Anchor" data-anchorjs-icon="" style="font: 1em / 1 anchorjs-icons; padding-left: 0.375em;"></a></h4>
       </li><li>HTML Academy - HTML base course</li>
       <li>RS school - JS course</li>
    <h3 id="experience">Experience</h3>
-<p>One year of freelance. All my projects are not open source, so I cannot show their source code :(</p>
-      
+<p>One year of freelance. All my projects are not open source, so I cannot show their source code :(</p>      
       <p><a href=https://www.codewars.com/users/alpin33>My Codewars profile.</a> </p>
       <p><a href=https://github.com/alpin33>My Github profile.</a> </p>     
-      
       <h4 id="Languages"> Languages:<a class="anchorjs-link " href="#languages" aria-label="Anchor" data-anchorjs-icon="" style="font: 1em / 1 anchorjs-icons; padding-left: 0.375em;"></a></h4>
       <li>English B1, language practice of communication in foreign countries, reading books and documentation.</li>
       <li>Spanish A1, School program</li>
