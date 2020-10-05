@@ -22,7 +22,6 @@
        <li>discord: alpin33 </li>
      <h3 id="summary">Summary</h3>
 <p>Last year I working as QA with Utest, TestIO, TestBirds and now I want to become a strong developer.</p><p>I can say about myself that I’m a fast learner, responsible and stress-resistant.</p>
-      <li><h4 id="my-site">My site:<a class="anchorjs-link " href="#my-site" aria-label="Anchor" data-anchorjs-icon="" style="font: 1em / 1 anchorjs-icons; padding-left: 0.375em;"></a></h4></li>
       <li><h4 id="my-skills">My skills:<a class="anchorjs-link " href="#my-skills" aria-label="Anchor" data-anchorjs-icon="" style="font: 1em / 1 anchorjs-icons; padding-left: 0.375em;"></a></h4></li>
       <li>CSS, HTML</li>
       <li>JS base</li>
