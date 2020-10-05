@@ -16,8 +16,8 @@
       <h1 id="my-portfolio">My portfolio</h1>
       <h4 id="personal-data">Personal data:<a class="anchorjs-link " href="#personal-data" aria-label="Anchor" data-anchorjs-icon="" style="font: 1em / 1 anchorjs-icons; padding-left: 0.375em;"></a></h4>
     <ul>
-      <li> Alex Pnchuk
-      h4 id="contacts">Contacts:<a class="anchorjs-link " href="#contacts" aria-label="Anchor" data-anchorjs-icon="" style="font: 1em / 1 anchorjs-icons; padding-left: 0.375em;"></a></h4></li>
+      <li> Alex Pnchuk </li>
+     <li> <h4 id="contacts" > Contacts:<a class="anchorjs-link " href="#contacts" aria-label="Anchor" data-anchorjs-icon="" style="font: 1em / 1 anchorjs-icons; padding-left: 0.375em;"></a></h4></li>
       <li>E-mail: pinchukalex33@gmail.com, </li>
        <li>discord: alpin33 </li>
      <h3 id="summary">Summary</h3>
