@@ -19,7 +19,11 @@
       <li> Alex Pnchuk
         <h4 id="contacts">Contacts:<a class="anchorjs-link " href="#contacts" aria-label="Anchor" data-anchorjs-icon="" style="font: 1em / 1 anchorjs-icons; padding-left: 0.375em;"></a></h4>
       </li>
-      <li>E-mail: pinchukalex33@gmail.com, discord: alpin33
+      <li>E-mail: pinchukalex33@gmail.com, </li>
+       <li>discord: alpin33 </li>
+     <h3 id="summary">Summary</h3>
+<p>I used to create <strong>chat bots</strong> in VK and Telegram, <strong>VK Mini Apps</strong>,
+some small <strong>SPAs</strong> (Single Page Applications) and now I want to become a strong front-end engineer. I can say about myself that I’m a fast learner, responsible and stress-resistant.</p>
         <h4 id="my-site">My site:<a class="anchorjs-link " href="#my-site" aria-label="Anchor" data-anchorjs-icon="" style="font: 1em / 1 anchorjs-icons; padding-left: 0.375em;"></a></h4>
       </li>
       <li>
@@ -29,10 +33,8 @@
       <li>JS base</li>
       <li>PHP base</li>
       <li>MYSQL base</li>
-      <li>anime.js</li>
       <li>Bootstrap</li>
-      <li>JQuery
-        <h4 id="last-code">Last code:<a class="anchorjs-link " href="#last-code" aria-label="Anchor" data-anchorjs-icon="" style="font: 1em / 1 anchorjs-icons; padding-left: 0.375em;"></a></h4>
+      <h4 id="last-code">Last code:<a class="anchorjs-link " href="#last-code" aria-label="Anchor" data-anchorjs-icon="" style="font: 1em / 1 anchorjs-icons; padding-left: 0.375em;"></a></h4>
       </li>
       <li>
         <h4 id="project">Project:<a class="anchorjs-link " href="#project" aria-label="Anchor" data-anchorjs-icon="" style="font: 1em / 1 anchorjs-icons; padding-left: 0.375em;"></a></h4>
@@ -40,6 +42,8 @@
       <li>
         <h4 id="education">Education:<a class="anchorjs-link " href="#education" aria-label="Anchor" data-anchorjs-icon="" style="font: 1em / 1 anchorjs-icons; padding-left: 0.375em;"></a></h4>
       </li>
+   <h3 id="experience">Experience</h3>
+<p>Two years of freelance. All my projects are not open source, so I cannot show their source code :(</p>
       <li>HTML Academy - HTML base course</li>
       <h4 id="english"> English:<a class="anchorjs-link " href="#english" aria-label="Anchor" data-anchorjs-icon="" style="font: 1em / 1 anchorjs-icons; padding-left: 0.375em;"></a></h4>
       <li>B1, language practice of communication in foreign countries, reading books and documentation.</li>
