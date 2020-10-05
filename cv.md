@@ -29,7 +29,7 @@
       <li>MYSQL base</li>
       <li>Bootstrap</li>
       <h4 id="last-code">Last code:<a class="anchorjs-link " href="#last-code" aria-label="Anchor" data-anchorjs-icon="" style="font: 1em / 1 anchorjs-icons; padding-left: 0.375em;"></a></h4>
-      </li><p>function isPrime(n) {
+      <p>function isPrime(n) {
         if (n <= 1)
           return false;</p>
           <p>if (n <= 3 || n == 5 || n == 7 || n == 11)
