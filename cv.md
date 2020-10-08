@@ -27,7 +27,6 @@
       <li>Strong attention to detail demonstrated by ability to follow and develop specific, outlined and detailed procedures</li>
       <li>Comfortable and adaptable in a fast-paced and informal environment. Ability to respond and react to changing priorities quickly and efficiently</li>
       <li>Any exposure to non-functional testing tools (performance, load, scalability, usability and security) would be highly desirable</li>
-
       <li><h4 id="my-skills">My skills:<a class="anchorjs-link " href="#my-skills" aria-label="Anchor" data-anchorjs-icon="" style="font: 1em / 1 anchorjs-icons; padding-left: 0.375em;"></a></h4></li>
       <li>CSS, HTML</li>
       <li>JS base</li>
@@ -54,8 +53,7 @@
    <h3 id="experience">Experience</h3>
      <li>One year of freelance. I working QA with Applause App Quality, Inc.; EPAM Systems, Inc. All my projects are not open source, so I cannot show their source code :(</li>
      <li><a href=https://www.codewars.com/users/alpin33>My Codewars profile.</a></li>
-     <li><a href=https://github.com/alpin33>My Github profile.</a></li>
-       
+     <li><a href=https://github.com/alpin33>My Github profile.</a></li>       
       <h4 id="Languages"> Languages:<a class="anchorjs-link " href="#languages" aria-label="Anchor" data-anchorjs-icon="" style="font: 1em / 1 anchorjs-icons; padding-left: 0.375em;"></a></h4>
       <li>English B1, language practice of communication in foreign countries, reading books and documentation.</li>
       <li>Spanish A1, School program</li>
