@@ -22,6 +22,11 @@
        <li>discord: alpin33 </li>
       <li>My phone number: +79675535895 </li>
      <h3 id="summary">Summary</h3>
+      <li>Excellent attention to detail, strong organization skills, and ability to work independently and in teams</li>
+      <li>Ability to learn quickly and thoroughly while still being able to adapt quickly to change</li>
+      <li>Strong attention to detail demonstrated by ability to follow and develop specific, outlined and detailed procedures</li>
+      <li>Comfortable and adaptable in a fast-paced and informal environment. Ability to respond and react to changing priorities quickly and efficiently</li>
+      <li>Any exposure to non-functional testing tools (performance, load, scalability, usability and security) would be highly desirable</li>
 <p>Last year I working as QA with Utest, TestIO, TestBirds and now I want to become a strong developer.</p><p>I can say about myself that I’m a fast learner, responsible and stress-resistant.</p>
       <li><h4 id="my-skills">My skills:<a class="anchorjs-link " href="#my-skills" aria-label="Anchor" data-anchorjs-icon="" style="font: 1em / 1 anchorjs-icons; padding-left: 0.375em;"></a></h4></li>
       <li>CSS, HTML</li>
@@ -29,6 +34,7 @@
       <li>PHP base</li>
       <li>MYSQL base</li>
       <li>Bootstrap</li>
+     <li>Selenium</li>
       <h4 id="last-code">Last code:<a class="anchorjs-link " href="#last-code" aria-label="Anchor" data-anchorjs-icon="" style="font: 1em / 1 anchorjs-icons; padding-left: 0.375em;"></a></h4>
       <p>function isPrime(n) {
         if (n <= 1)
