@@ -52,8 +52,8 @@
       <li>RS school - JS course</li>
    <h3 id="experience">Experience</h3>
      <li>One year of freelance. I working QA with Applause App Quality, Inc.; EPAM Systems, Inc. All my projects are not open source, so I cannot show their source code :(</li>
-     <li><a href=https://www.codewars.com/users/alpin33>My Codewars profile.</a></li>
-     <li><a href=https://github.com/alpin33>My Github profile.</a></li>       
+     <li><a> href=https://www.codewars.com/users/alpin33>My Codewars profile.</a></li>
+     <li><a> href=https://github.com/alpin33>My Github profile.</a></li>       
       <h4 id="Languages"> Languages:<a class="anchorjs-link " href="#languages" aria-label="Anchor" data-anchorjs-icon="" style="font: 1em / 1 anchorjs-icons; padding-left: 0.375em;"></a></h4>
       <li>English B1, language practice of communication in foreign countries, reading books and documentation.</li>
       <li>Spanish A1, School program</li>
